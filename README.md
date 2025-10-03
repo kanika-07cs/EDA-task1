@@ -13,22 +13,22 @@ This project analyzes transaction data from Kelly’s Ice Cream Shop to understa
 
 ## 📊 Exploratory Data Analysis (EDA) Ideas
 1.Transaction Amount Distribution
-Objective: Understand typical transaction values and detect unusual spending.
-Method: Histogram or boxplot of amount.
+- Objective: Understand typical transaction values and detect unusual spending.
+- Method: Histogram or boxplot of amount.
 
 2.Customer Spending Analysis
-Objective: Calculate total and average spending per customer.
-Method: Group by customer_id and aggregate amount.
+- Objective: Calculate total and average spending per customer.
+- Method: Group by customer_id and aggregate amount.
 
 3.Transaction Frequency
-Objective: Determine how often each customer makes purchases.
-Method: Count transaction_id per customer_id.
+- Objective: Determine how often each customer makes purchases.
+- Method: Count transaction_id per customer_id.
 
 4.High-Value Customer Detection
-Objective: Identify top spenders for targeted promotions.
-Method: Rank customers by total spending.
+- Objective: Identify top spenders for targeted promotions.
+- Method: Rank customers by total spending.
 
 ## 🛠️ Tech Stack
-Programming Language: Python
-Libraries: Pandas, Matplotlib, Seaborn, NumPy
-Platform: Google Colab
+- Programming Language: Python
+- Libraries: Pandas, Matplotlib, Seaborn, NumPy
+- Platform: Google Colab
