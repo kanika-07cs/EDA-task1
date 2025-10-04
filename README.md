@@ -1,4 +1,4 @@
-# EDA-task1
+# Kelly’s Ice Cream Shop
 ## 🏦 Project Overview
 This project analyzes transaction data from Kelly’s Ice Cream Shop to understand customer spending behavior and evaluate the impact of discounts. By examining transaction amounts and customer patterns, we aim to:
 - Identify high-value customers
