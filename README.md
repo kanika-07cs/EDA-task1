@@ -32,3 +32,7 @@ This project analyzes transaction data from Kelly’s Ice Cream Shop to understa
 - Programming Language: Python
 - Libraries: Pandas, Matplotlib, Seaborn, NumPy
 - Platform: Google Colab
+
+## ✅ Conclusion
+- Most customers spend moderately, but a few high-value and frequent buyers drive the majority of revenue.
+- These insights help Kelly’s Ice Cream Shop refine discounts, build loyalty programs, and boost overall sales.
