@@ -14,21 +14,25 @@ Source: [Kelly’s Ice Cream Transactions (Google Drive)](https://drive.google.c
 - `amount`: Transaction amount 
 
 ## 📊 Exploratory Data Analysis (EDA) Ideas
-1.Transaction Amount Distribution
-- Objective: Understand typical transaction values and detect unusual spending.
-- Method: Histogram or boxplot of amount.
+1 Data Understanding (Pandas)
+- Load CSV into DataFrame and preview first 10 rows
+- Check shape, columns, data types, missing values, and duplicates
 
-2.Customer Spending Analysis
-- Objective: Calculate total and average spending per customer.
-- Method: Group by customer_id and aggregate amount.
+2 Exploratory Data Analysis (EDA)
+- Count transactions per customer
+- Find each customer’s 3rd transaction
+- Identify transactions with 33% discount
+- Plot histograms for original and discounted 3rd transactions
 
-3.Transaction Frequency
-- Objective: Determine how often each customer makes purchases.
-- Method: Count transaction_id per customer_id.
+3 Statistics
+- Calculate average purchase and discounted amount
+- Find probability that a random transaction is a discounted 3rd purchase
 
-4.High-Value Customer Detection
-- Objective: Identify top spenders for targeted promotions.
-- Method: Rank customers by total spending.
+4 Feature Engineering
+- Add columns: Transaction_Rank, Discount_Applied, Discounted_Amount, and Savings
+
+5 Insights
+- Identify top spender and customer with largest discount
 
 ## 🛠️ Tech Stack
 - Programming Language: Python
