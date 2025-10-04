@@ -5,7 +5,8 @@ This project analyzes transaction data from Kelly’s Ice Cream Shop to understa
 - Understand spending distribution
 - Detect frequent buyers
 - Find opportunities to optimize discounts and promotions
-Source: Kelly’s Ice Cream Transactions (Google Drive)
+  
+Source: [Kelly’s Ice Cream Transactions (Google Drive)](https://drive.google.com/file/d/14sFXsZI6fdFhuxVD4EFOx39ac9WUfJOl/view?usp=sharing)
 
 ## 🗂 Dataset Columns
 - `customer_id`: Unique identifier for each customer
